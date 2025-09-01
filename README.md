@@ -1,5 +1,3 @@
-# nkg2056.github.io
-
 <!DOCTYPE html>
 
 <html lang="en">
@@ -30,7 +28,7 @@
 </h1>
 
 <h1>
-<a href="https://dlarsky2056.github.io"> Jorge's Page </a>
+<a href="https://nkg2056.github.io"> Jorge's Page </a>
 </h1>
 
 <h1>
