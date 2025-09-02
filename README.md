@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>Welcome to my domain</h1>
-	<h1>Jimmy, si aprietas ese boton, todo el peso de la tia caera sobre ti</h1>
+	<h1>I AM THE STORM THAT APPROACHING</h1>
     <button onclick="showAlert()">A si? A ver...</button>
 
     <script>
