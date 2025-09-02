@@ -24,7 +24,7 @@
 	</script>
 
 <h1>
-<a href="https://scopeprince1-pixel.github.io"> Ethan's Page </a>
+<a href="https://scopeprince.github.io"> Ethan's Page </a>
 </h1>
 
 <h1>
