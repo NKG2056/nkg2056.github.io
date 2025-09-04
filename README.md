@@ -23,6 +23,10 @@
 	
 	</script>
 
+ <h1>
+<a href="https://nkg2056.github.io/Javascript/Index.html"> Companions' page </a> 
+ </h1>
+
 <h1>
 <a href="https://scopeprince.github.io"> Ethan's Page </a>
 </h1>
