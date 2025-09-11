@@ -18,7 +18,7 @@
     </script>
 	<script>
 	alert("<h1>
-<a href=""> C:\Users\jfernandez14\Downloads\hq2.jpg </a>
+<a href="C:\Users\jfernandez14\Downloads\hq2.jpg"> PICTURE </a>
 </h1>");
 	
 	</script>
