@@ -18,7 +18,7 @@
     </script>
 	<script>
 	alert("<h1>
-<a href="C:\Users\jfernandez14\Downloads\hq2.jpg"> PICTURE </a>
+<a href="[C:\Users\jfernandez14\Downloads\hq2.jpg](https://github.com/NKG2056/nkg2056.github.io/blob/main/silksong-clown.webp)"> PICTURE </a>
 </h1>");
 	
 	</script>
