@@ -3,12 +3,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=3.0">
     <title>Companions' Websites</title>
+	    <link rel="icon" href=
+"file:///C:/Users/jfernandez14/Downloads/OIP.webp" 
+          type="image/x-icon">
 </head>
 <body>
-    <h1>Welcome to my domain</h1>
-	<h1>I AM THE STORM THAT APPROACHING</h1>
+    <h1>Hello, why are you here?</h1>
+	<h1>There is not much to see here anyway</h1>
     <button onclick="showAlert()">A si? A ver...</button>
 
     <script>
@@ -16,10 +19,8 @@
             alert("Hello! This is an alert message.");
         }
     </script>
-	<script>
-	alert("<h1>
+	<script
 <a href="[C:\Users\jfernandez14\Downloads\hq2.jpg](https://github.com/NKG2056/nkg2056.github.io/blob/main/silksong-clown.webp)"> PICTURE </a>
-</h1>");
 	
 	</script>
 
