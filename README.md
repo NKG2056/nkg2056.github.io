@@ -27,7 +27,22 @@
  </h1>
 
  <h1> So, do you want to play Silksong? </h1>
-
+ <ul>
+	 - Mathematics
+	 - Robotics
+	 - English
+	 - Spanish
+	 - Science
+	 - Engineering
+	 - Spy
+ </ul>
+<ol>
+	- 1.
+	- 2.
+	- 3.
+	- 4.
+	- 5.
+</ol>
 
 
 
