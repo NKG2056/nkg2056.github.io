@@ -21,7 +21,7 @@
         }
     </script>
 	<script>
-<a href="[(https://github.com/NKG2056/nkg2056.github.io/blob/main/silksong-clown.webp)](https://github.com/NKG2056/nkg2056.github.io/blob/main/silksong-clown.webp?raw=true)"> PICTURE </a>
+<img src="[(https://github.com/NKG2056/nkg2056.github.io/blob/main/silksong-clown.webp)](https://github.com/NKG2056/nkg2056.github.io/blob/main/silksong-clown.webp?raw=true)" width = 800>
 	
 	</script>
 
