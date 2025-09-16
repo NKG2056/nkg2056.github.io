@@ -21,7 +21,7 @@
         }
     </script>
 	<script>
-<a href="[C:\Users\jfernandez14\Downloads\hq2.jpg](https://github.com/NKG2056/nkg2056.github.io/blob/main/silksong-clown.webp)"> PICTURE </a>
+<a href="(https://github.com/NKG2056/nkg2056.github.io/blob/main/silksong-clown.webp)"> PICTURE </a>
 	
 	</script>
 
