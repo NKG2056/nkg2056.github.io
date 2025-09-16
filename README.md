@@ -34,6 +34,10 @@
 <a href="C:\Users\jfernandez14\Desktop\Codes_\Javascript\projects.html"> Empty projects </a> 
  </h3>
  
+ <h3>
+ <a href="file:///C:/Users/jfernandez14/Downloads/diagram_jf.drawio.html"> Diagram </a>
+ </h3>
+ 
  <hr>
 
  <h2> So, do you want to play Silksong? </h2>
