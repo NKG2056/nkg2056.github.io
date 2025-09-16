@@ -36,7 +36,7 @@
 	 <li> Engineering </li>
 	 <li> Spy </li>
  </ul>
-<ol>
+<ol type="a" start="26" reversed>
 	<li> 1. </li>
 	<li> 2. </li>
 	<li> 3. </li>
