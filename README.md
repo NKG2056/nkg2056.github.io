@@ -12,6 +12,7 @@
 <body>
     <h1>Hello, why are you here?</h1>
 	<h1>There is not much to see here anyway</h1>
+	<p> I don't know what I'm doing </p>
     <button onclick="showAlert()">A si? A ver...</button>
 
     <script>
@@ -19,7 +20,7 @@
             alert("Hello! This is an alert message.");
         }
     </script>
-	<script
+	<script>
 <a href="[C:\Users\jfernandez14\Downloads\hq2.jpg](https://github.com/NKG2056/nkg2056.github.io/blob/main/silksong-clown.webp)"> PICTURE </a>
 	
 	</script>
@@ -27,6 +28,8 @@
  <h1>
 <a href="https://nkg2056.github.io/Javascript/Index.html"> Companions' page </a> 
  </h1>
+
+ <h1> So, do you want to play Silksong? </h1>
 
 
 
