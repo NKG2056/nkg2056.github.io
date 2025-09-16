@@ -20,7 +20,7 @@
             alert("Hello! This is an alert message.");
         }
     </script>
-<img src="[(https://github.com/NKG2056/nkg2056.github.io/blob/main/silksong-clown.webp)](https://github.com/NKG2056/nkg2056.github.io/blob/main/silksong-clown.webp?raw=true)" width = 800>
+<img src="C:\Users\jfernandez14\Downloads\silksong-clown.webp">
 
  <h1>
 <a href="https://nkg2056.github.io/Javascript/Index.html"> Companions' page </a> 
