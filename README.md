@@ -35,7 +35,7 @@
  </h3>
  
  <h3>
- <a href="file:///C:/Users/jfernandez14/Downloads/diagram_jf.drawio.html"> Diagram </a>
+ <a href="https://github.com/NKG2056/nkg2056.github.io/blob/main/Javascript/diagram_jf.drawio.html"> Diagram </a>
  </h3>
  
  <hr>
@@ -66,7 +66,7 @@
 	<li> 5. </li>
 </ol>
 
-<h2> This message will change to prove the document is changing </h2>
+<h2> Is there change? </h2>
 
 
 
