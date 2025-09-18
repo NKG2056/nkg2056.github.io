@@ -87,7 +87,7 @@
 	<li> 5. </li>
 </ol>
 
-<h2> Colors </h2>
+<h2> Anomalies </h2>
 
 
 
