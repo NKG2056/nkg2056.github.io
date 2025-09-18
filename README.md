@@ -8,8 +8,29 @@
 	    <link rel="icon" href=
 "file:///C:/Users/jfernandez14/Downloads/OIP.webp" 
           type="image/x-icon">
+
+	<style>
+		 
+		body{
+		     color: #FFFFFF;
+		     }
+		 
+		 h1{
+		     color: red;
+		    }
+		a{
+		  color: #03FFC9;
+		 }
+	</style>
+	
+
 </head>
 <body>
+
+	<script>
+	 document.body.style.backgroundColor = '#120138';
+	</script>
+
     <h1>Hello, why are you here?</h1>
 	<h1>There is not much to see here anyway</h1>
 	<p> I don't know what I'm doing </p>
@@ -31,11 +52,11 @@
 <a href="https://nkg2056.github.io/Javascript/Index.html"> Companions' page </a> 
  </h3>
  <h3>
-<a href="https://github.com/NKG2056/nkg2056.github.io/blob/main/Javascript/projects.html"> Empty projects </a> 
+<a href="C:\Users\jfernandez14\Desktop\Codes_\Javascript\projects.html"> Empty projects </a> 
  </h3>
  
  <h3>
- <a href="https://github.com/NKG2056/nkg2056.github.io/blob/main/Javascript/diagram_jf.drawio.html"> Diagram </a>
+ <a href="file:///C:/Users/jfernandez14/Downloads/diagram_jf.drawio.html"> Diagram </a>
  </h3>
  
  <hr>
@@ -66,7 +87,7 @@
 	<li> 5. </li>
 </ol>
 
-<h2> Is there change? </h2>
+<h2> Colors </h2>
 
 
 
