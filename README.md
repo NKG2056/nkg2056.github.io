@@ -31,7 +31,7 @@
 <a href="https://nkg2056.github.io/Javascript/Index.html"> Companions' page </a> 
  </h3>
  <h3>
-<a href="C:\Users\jfernandez14\Desktop\Codes_\Javascript\projects.html"> Empty projects </a> 
+<a href="https://github.com/NKG2056/nkg2056.github.io/blob/main/Javascript/projects.html"> Empty projects </a> 
  </h3>
  
  <h3>
